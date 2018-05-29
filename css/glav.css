@@ -1,0 +1,14 @@
+﻿p{
+	font-size: 120%;
+	margin-left: 10px;
+}
+
+body{
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+	border-radius: 2px;
+	border: solid 4px #FFF;
+	padding:4px;
+}

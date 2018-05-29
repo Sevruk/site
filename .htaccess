@@ -1,0 +1,7 @@
+AddDefaultCharset utf-8
+ErrorDocument 404 /404.html
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.xn--31-mlcmfjpb7ak1d8b.xn--p1ai$ [NC]
+RewriteCond %{SERVER_PORT} !^443$
+RewriteRule ^(.*)$ http://xn--31-mlcmfjpb7ak1d8b.xn--p1ai/$1 [R=301,L]

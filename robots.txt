@@ -1,0 +1,10 @@
+User-agent: *
+Disallow:
+
+
+User-agent: Yandex
+Disallow:
+
+Host: http://xn--31-mlcmfjpb7ak1d8b.xn--p1ai/
+
+Sitemap: http://xn--31-mlcmfjpb7ak1d8b.xn--p1ai/sitemap.xml
